@@ -5,13 +5,13 @@ http://localhost:8080/sales-management/salesService/sendMessage
 
 Method POST - Call Examples:
 
-E.g 1
+E.g 1:
 {"message":"1", "product":"apple", "value":"10"}
 
-E.g 2
+E.g 2:
 {"message":"1", "product":"apple", "quantity":"2", "value":"10"}
 
-E.g 3
+E.g 3:
 {"message":"3", "product":"apple", "operation":"ADD", "value":"1"}
 
 Maven Project
