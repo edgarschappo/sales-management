@@ -1,4 +1,4 @@
-The problem Implement a small message processing application that satisfies the below requirements for processing sales notification messages.
+This project implement a small message processing application that satisfies the below requirements for processing sales notification messages.
 
 Rest Service Address (POST)
 http://localhost:8080/sales-management/salesService/sendMessage
